@@ -13,4 +13,6 @@ int main()
 {
     WebString wstr(WSLit("hello"));
     cout << wstr << endl;
+
+    return 0;
 }
